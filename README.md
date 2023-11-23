@@ -7,7 +7,7 @@ O **Webinar SaaS** é a criação de um site para apresentação e inscrição e
 
 ## Recursos
 
-- Secção com o apresentação do evento 
+- Secção com a apresentação do evento 
 - Formulário de inscrição
 - Responsividade para dispositivos móveis
 
